@@ -1,15 +1,11 @@
-## Hello there, I'm Fabian Kuriata 👋
-
-I'm a fullstack developer (backend oriented) with over 4 years of experience in Typescript and Node.js. I have a BEng in Computer Science from Wrocław University of Science and Technology.
+## Hello there, I'm Fabian 👋
+Technology is the means. Problem-solving is the goal.
 
 ### About Me
-- 💻 Experienced in building web applications with Typescript, Node.js and React
-- 🌐 I have a strong interest in web development and I am continuously eager to explore and learn new technologies and methodologies
-- 🌱 I'm currently learning more about advanced software architecture and filling knowledge gaps
-- ✨ My other interests include video games and psychology
-
-### Education
-- 🎓 BEng in Computer Science, Wrocław University of Science and Technology
+- 💻 Senior Backend Developer, with a good understanding of frontend as well
+- 🌐 Focused on backend development, but broadly interested in web development and best practices
+- 🎮 Passionate about video games, and open to opportunities in the gaming industry
+- 🧠 Curious about science in general, especially psychology and how it shapes decision-making
 
 ### Contact Me
 - 📫 [LinkedIn](https://www.linkedin.com/in/fabian-kuriata)
